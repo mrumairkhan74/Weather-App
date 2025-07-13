@@ -92,5 +92,6 @@ Weather-App/
 # Author
 
 Umair Khan
-Github:@mrumairkhan74
-Instagram: @mrumairkhan74
+
+- Github:@mrumairkhan74
+- Instagram: @mrumairkhan74
